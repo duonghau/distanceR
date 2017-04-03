@@ -1,4 +1,4 @@
-Package: DNADistance
+Package: distanceR
 Title: An implement the methods for calcule distance between the sequences(set of sequences) DNA
 Version: 0.1
 Authors@R: c(person("DUONG TIEN", "Hau", email = "dthau.it@gmail.com", role = c("aut", "cre")),
