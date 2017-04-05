@@ -1,0 +1,16 @@
+---
+title: "Distance R: A package for mesure and compare divesity of community"
+author: "Duong Tien Hau & Ho Bich Hai"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+## Introduction
+## Installation
+### Require
+## Citation
+## Object
+## Function
